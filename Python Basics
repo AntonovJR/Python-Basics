@@ -1,0 +1,24 @@
+#1
+print("I'm programming in Python!")
+
+#2
+color = "Hope"
+thing = "Green"
+print(color + " is the color of " + thing)
+
+#3
+print((((1+2)*3)/4)**5)
+
+#4
+ratio = (1+5**(1/2))/2
+print(ratio)
+
+#5
+print(26**6)
+
+#6
+disk_size = 16*1024*1024*1024
+sector_size = 512
+sector_amount = disk_size/sector_size
+
+print(sector_amount)
